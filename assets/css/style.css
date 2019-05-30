@@ -434,4 +434,15 @@ input[type=submit] {
 }
 /* ______________________________ */
 
-@media and screen (max-width:980px;)
+@media screen (max-width:980px;) {
+
+}
+ 
+/* ______________768px___________ */
+@media screen (max-width:768px;) {
+  
+}
+/* ______________640px___________ */
+@media screen (max-width:640px;) {
+  
+}
